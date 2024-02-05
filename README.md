@@ -1,1 +1,0 @@
-# js-challenge-6
