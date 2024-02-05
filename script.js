@@ -3,10 +3,5 @@ function largestSwap(num) {
 
     const digit1 = parseInt(numStr[0]);
     const digit2 = parseInt(numStr[1]);
-
-    
-
-    
-    
 	
 }
