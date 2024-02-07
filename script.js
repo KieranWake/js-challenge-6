@@ -12,3 +12,5 @@ function largestSwap(num) {
         return true; 
     }
 }
+
+console.log(largestSwap(72));
