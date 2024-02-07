@@ -1,7 +1,7 @@
 function largestSwap(num) {
     let numStr = num.split("");
-    console.log(numStr);
-    
+    let numRev = numStr.reverse(); 
+    let numJoin = numRev.join(""); 
 
 }
 
