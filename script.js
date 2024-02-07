@@ -7,7 +7,8 @@ function largestSwap(num) {
     if (digit1 > digit2) {
         return true;
     } else if (digit2 > digit1) {
+        return false;
+    } else {
         return true; 
     }
-	
 }
